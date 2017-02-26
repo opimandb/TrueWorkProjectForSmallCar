@@ -1,8 +1,3 @@
-//
-// пример нахождения контуров с помощью функции cvFindContours()
-//
-// http://robocraft.ru
-//
 #include <opencv\cv.h>
 #include <opencv\highgui.h>
 #include <opencv2\opencv.hpp>
@@ -30,11 +25,10 @@ inline bool isBlack(int x, uint8_t *row)
 int main(int argc, char* argv[])
 {
 	int step = 1;
-	// имя картинки задаётся первым параметром  p17.avi    p3 p6 p7 p10 p11
+	//p17.avi    p3 p6 p7 p10 p11
 	char* filename = argc >= 2 ? argv[1] : "C:\\Users\\osipp\\Desktop\\videos\\n14.avi";  
 	cvNamedWindow("original", CV_WINDOW_AUTOSIZE);
 
-	// получаем информацию о видео-файле
 	CvCapture* capture = cvCreateFileCapture(filename);
 	CvMemStorage* storage = cvCreateMemStorage(0);
 	CvSeq* contours = 0;
@@ -44,28 +38,21 @@ int main(int argc, char* argv[])
 	int y = argc >= 4 ? atoi(argv[3]) : 370;
 	int width = argc >= 5 ? atoi(argv[4]) : 150;
 	int height = argc >= 6 ? atoi(argv[5]) : 130;
-	// добавочная величина 
 	int add = argc >= 7 ? atoi(argv[6]) : 400;
-	//try black
 	Mat orig;
 	int blDotX = 0, blDotX2 = 0, blDotX3 = 0, blDotX4 = 0, Xco = 0, Xco2 = 0, count = 0;
 	uint8_t *row, *row2;
-	//
 	while (1) {
-		// получаем следующий кадр
 		frame = cvQueryFrame(capture);
 		if (!frame) {
 			char c = cvWaitKey(0);
 			break;
 		}
 		dst = cvCloneImage(frame);
-		
-
 		cvSetImageROI(dst, cvRect(x, y, width, height));
 		cvSetImageROI(frame, cvRect(x, y, width, height));
 		cvAddS(frame, cvScalar(add), frame);
 		cvResetImageROI(frame);
-		//try black
 		orig = cvarrToMat(dst);
 		//imshow("orig", orig);
 		row = (uint8_t*)orig.ptr<uint8_t>(5);
@@ -97,19 +84,11 @@ int main(int argc, char* argv[])
 			x += (int)Xco-57; count++;
 		}
 		else x += (((int)Xco)-57);
-
-
-
-		//
-
 		gray2 = cvarrToMat(gray);
 		img2 = cvarrToMat(dst);
-
-		
 		cvtColor(img2, gray2, CV_BGR2GRAY);
 		Canny(gray2, edge, 50, 150, 3);
 		edge.convertTo(draw, CV_8U);
-
 		gray = cvCloneImage(&(IplImage)draw);
 		bin = cvCloneImage(&(IplImage)draw);
 		int contoursCont = cvFindContours(bin, storage, &contours, sizeof(CvContour), CV_RETR_EXTERNAL, CV_CHAIN_APPROX_SIMPLE, cvPoint(0, 0));
@@ -121,7 +100,7 @@ int main(int argc, char* argv[])
 				double perim = cvContourPerimeter(seq0);
 				//cout << "perim:" << perim << endl;
 				if (perim < 180 && perim>40) {
-					cout << "PREPYATSTVIE" << endl << endl; cvWaitKey(0);// break;
+					cout << "PREPYATSTVIE" << endl << endl; cvWaitKey(0);
 				}
 			}
 		}
@@ -130,6 +109,5 @@ int main(int argc, char* argv[])
 	}
 	cvReleaseCapture(&capture);
 	cvDestroyWindow("original");
-
 	return 0;
 }
