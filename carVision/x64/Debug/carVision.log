@@ -1,3 +1,5 @@
 ﻿  Source.cpp
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(51): warning C4101: 'centerx': unreferenced local variable
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(48): warning C4101: 'ycheck': unreferenced local variable
   carVision.vcxproj -> C:\Users\osipp\Desktop\opencv\carVision\TrueWorkProjectForSmallCar\x64\Debug\carVision.exe
   carVision.vcxproj -> C:\Users\osipp\Desktop\opencv\carVision\TrueWorkProjectForSmallCar\x64\Debug\carVision.pdb (Full PDB)
