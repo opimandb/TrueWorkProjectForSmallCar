@@ -1,5 +1,13 @@
 ﻿  Source.cpp
-c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(51): warning C4101: 'centerx': unreferenced local variable
-c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(48): warning C4101: 'ycheck': unreferenced local variable
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(67): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(68): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(69): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(71): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(72): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(73): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(75): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(76): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(77): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osipp\desktop\opencv\carvision\trueworkprojectforsmallcar\carvision\source.cpp(45): warning C4101: 'ycheck': unreferenced local variable
   carVision.vcxproj -> C:\Users\osipp\Desktop\opencv\carVision\TrueWorkProjectForSmallCar\x64\Debug\carVision.exe
   carVision.vcxproj -> C:\Users\osipp\Desktop\opencv\carVision\TrueWorkProjectForSmallCar\x64\Debug\carVision.pdb (Full PDB)
