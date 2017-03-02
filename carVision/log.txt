@@ -1,0 +1,1309 @@
+--------------------videos\p1.avi file---------
+
+
+                        NEXT STEP
+top: 54   bottom: 67
+dot1: 40
+dot2: 94
+dot3: 54
+dot4: 121
+countcon:0
+high: 0 low: 0
+        PERIM:154.467
+allcount: 1
+sumper: 154
+countplus: 0
+frame:0
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 2
+sumper: 269
+countplus: 230
+frame:0
+countcon:2
+high: 220 low: 88
+        PERIM:105.773
+allcount: 3
+sumper: 374
+countplus: 124
+frame:0
+
+
+                        NEXT STEP
+top: 54   bottom: 67
+dot1: 143
+dot2: 197
+dot3: 157
+dot4: 224
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:1
+countcon:2
+high: 220 low: 88
+        PERIM:105.773
+allcount: 2
+sumper: 220
+countplus: 110
+frame:1
+
+
+                        NEXT STEP
+top: 54   bottom: 66
+dot1: 143
+dot2: 197
+dot3: 158
+dot4: 224
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:2
+countcon:2
+high: 221 low: 88
+        PERIM:106.32
+allcount: 2
+sumper: 221
+countplus: 110
+frame:2
+
+
+                        NEXT STEP
+top: 54   bottom: 66
+dot1: 142
+dot2: 196
+dot3: 157
+dot4: 223
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:3
+countcon:2
+high: 220 low: 88
+        PERIM:105.773
+allcount: 2
+sumper: 220
+countplus: 110
+frame:3
+
+
+                        NEXT STEP
+top: 54   bottom: 66
+dot1: 143
+dot2: 197
+dot3: 157
+dot4: 223
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:4
+countcon:2
+high: 220 low: 88
+        PERIM:105.773
+allcount: 2
+sumper: 220
+countplus: 110
+frame:4
+
+
+                        NEXT STEP
+top: 54   bottom: 66
+dot1: 141
+dot2: 195
+dot3: 156
+dot4: 222
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:5
+countcon:2
+high: 221 low: 88
+        PERIM:106.32
+allcount: 2
+sumper: 221
+countplus: 110
+frame:5
+
+
+                        NEXT STEP
+top: 54   bottom: 66
+dot1: 141
+dot2: 195
+dot3: 155
+dot4: 221
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:6
+countcon:2
+high: 220 low: 88
+        PERIM:105.773
+allcount: 2
+sumper: 220
+countplus: 110
+frame:6
+
+
+                        NEXT STEP
+top: 54   bottom: 66
+dot1: 140
+dot2: 194
+dot3: 154
+dot4: 220
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:7
+countcon:2
+high: 221 low: 88
+        PERIM:106.32
+allcount: 2
+sumper: 221
+countplus: 110
+frame:7
+
+
+                        NEXT STEP
+top: 54   bottom: 66
+dot1: 141
+dot2: 195
+dot3: 156
+dot4: 222
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:8
+countcon:2
+high: 221 low: 88
+        PERIM:106.32
+allcount: 2
+sumper: 221
+countplus: 110
+frame:8
+
+
+                        NEXT STEP
+top: 55   bottom: 67
+dot1: 139
+dot2: 194
+dot3: 154
+dot4: 221
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:9
+countcon:2
+high: 222 low: 88
+        PERIM:106.32
+allcount: 2
+sumper: 222
+countplus: 111
+frame:9
+
+
+                        NEXT STEP
+top: 54   bottom: 67
+dot1: 141
+dot2: 195
+dot3: 156
+dot4: 223
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:10
+countcon:2
+high: 222 low: 88
+        PERIM:106.902
+allcount: 2
+sumper: 222
+countplus: 111
+frame:10
+
+
+                        NEXT STEP
+top: 55   bottom: 67
+dot1: 140
+dot2: 195
+dot3: 156
+dot4: 223
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:11
+countcon:2
+high: 221 low: 88
+        PERIM:106.902
+allcount: 2
+sumper: 221
+countplus: 110
+frame:11
+
+
+                        NEXT STEP
+top: 55   bottom: 68
+dot1: 141
+dot2: 196
+dot3: 156
+dot4: 224
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:12
+countcon:2
+high: 221 low: 88
+        PERIM:106.32
+allcount: 2
+sumper: 221
+countplus: 110
+frame:12
+
+
+                        NEXT STEP
+top: 56   bottom: 68
+dot1: 139
+dot2: 195
+dot3: 155
+dot4: 223
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:13
+countcon:2
+high: 222 low: 88
+        PERIM:106.902
+allcount: 2
+sumper: 222
+countplus: 111
+frame:13
+
+
+                        NEXT STEP
+top: 56   bottom: 68
+dot1: 138
+dot2: 194
+dot3: 154
+dot4: 222
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:14
+countcon:2
+high: 222 low: 88
+        PERIM:106.902
+allcount: 2
+sumper: 222
+countplus: 111
+frame:14
+
+
+                        NEXT STEP
+top: 56   bottom: 68
+dot1: 139
+dot2: 195
+dot3: 155
+dot4: 223
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:15
+countcon:2
+high: 222 low: 88
+        PERIM:106.902
+allcount: 2
+sumper: 222
+countplus: 111
+frame:15
+
+
+                        NEXT STEP
+top: 56   bottom: 68
+dot1: 139
+dot2: 195
+dot3: 155
+dot4: 223
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:16
+countcon:2
+high: 223 low: 89
+        PERIM:107.517
+allcount: 2
+sumper: 223
+countplus: 111
+frame:16
+
+
+                        NEXT STEP
+top: 57   bottom: 68
+dot1: 138
+dot2: 195
+dot3: 155
+dot4: 223
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:17
+countcon:2
+high: 223 low: 89
+        PERIM:107.517
+allcount: 2
+sumper: 223
+countplus: 111
+frame:17
+
+
+                        NEXT STEP
+top: 56   bottom: 69
+dot1: 140
+dot2: 196
+dot3: 156
+dot4: 225
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:18
+countcon:2
+high: 222 low: 88
+        PERIM:106.902
+allcount: 2
+sumper: 222
+countplus: 111
+frame:18
+
+
+                        NEXT STEP
+top: 56   bottom: 69
+dot1: 139
+dot2: 195
+dot3: 155
+dot4: 224
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:19
+countcon:2
+high: 222 low: 88
+        PERIM:106.902
+allcount: 2
+sumper: 222
+countplus: 111
+frame:19
+
+
+                        NEXT STEP
+top: 57   bottom: 68
+dot1: 138
+dot2: 195
+dot3: 155
+dot4: 223
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:20
+countcon:2
+high: 224 low: 89
+        PERIM:107.517
+allcount: 2
+sumper: 224
+countplus: 112
+frame:20
+
+
+                        NEXT STEP
+top: 57   bottom: 68
+dot1: 140
+dot2: 197
+dot3: 157
+dot4: 225
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:21
+countcon:2
+high: 224 low: 89
+        PERIM:107.517
+allcount: 2
+sumper: 224
+countplus: 112
+frame:21
+
+
+                        NEXT STEP
+top: 57   bottom: 68
+dot1: 140
+dot2: 197
+dot3: 157
+dot4: 225
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:22
+countcon:2
+high: 225 low: 90
+        PERIM:108.167
+allcount: 2
+sumper: 225
+countplus: 112
+frame:22
+
+
+                        NEXT STEP
+top: 56   bottom: 68
+dot1: 140
+dot2: 196
+dot3: 157
+dot4: 225
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:23
+countcon:2
+high: 224 low: 89
+        PERIM:107.517
+allcount: 2
+sumper: 224
+countplus: 112
+frame:23
+
+
+                        NEXT STEP
+top: 56   bottom: 68
+dot1: 140
+dot2: 196
+dot3: 157
+dot4: 225
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:24
+countcon:2
+high: 225 low: 90
+        PERIM:108.167
+allcount: 2
+sumper: 225
+countplus: 112
+frame:24
+
+
+                        NEXT STEP
+top: 57   bottom: 69
+dot1: 140
+dot2: 197
+dot3: 157
+dot4: 226
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:25
+countcon:2
+high: 223 low: 89
+        PERIM:107.517
+allcount: 2
+sumper: 223
+countplus: 111
+frame:25
+
+
+                        NEXT STEP
+top: 56   bottom: 68
+dot1: 141
+dot2: 197
+dot3: 158
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:26
+countcon:2
+high: 225 low: 90
+        PERIM:108.167
+allcount: 2
+sumper: 225
+countplus: 112
+frame:26
+
+
+                        NEXT STEP
+top: 57   bottom: 69
+dot1: 140
+dot2: 197
+dot3: 157
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:27
+countcon:2
+high: 224 low: 89
+        PERIM:107.517
+allcount: 2
+sumper: 224
+countplus: 112
+frame:27
+
+
+                        NEXT STEP
+top: 57   bottom: 68
+dot1: 140
+dot2: 197
+dot3: 158
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:28
+countcon:2
+high: 225 low: 90
+        PERIM:108.167
+allcount: 2
+sumper: 225
+countplus: 112
+frame:28
+
+
+                        NEXT STEP
+top: 57   bottom: 68
+dot1: 140
+dot2: 197
+dot3: 158
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:29
+countcon:2
+high: 225 low: 90
+        PERIM:108.849
+allcount: 2
+sumper: 225
+countplus: 112
+frame:29
+
+
+                        NEXT STEP
+top: 57   bottom: 69
+dot1: 140
+dot2: 197
+dot3: 157
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:30
+countcon:2
+high: 225 low: 90
+        PERIM:108.167
+allcount: 2
+sumper: 225
+countplus: 112
+frame:30
+
+
+                        NEXT STEP
+top: 57   bottom: 68
+dot1: 140
+dot2: 197
+dot3: 158
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:31
+countcon:2
+high: 225 low: 90
+        PERIM:108.167
+allcount: 2
+sumper: 225
+countplus: 112
+frame:31
+
+
+                        NEXT STEP
+top: 58   bottom: 69
+dot1: 139
+dot2: 197
+dot3: 157
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:32
+countcon:2
+high: 225 low: 90
+        PERIM:108.167
+allcount: 2
+sumper: 225
+countplus: 112
+frame:32
+
+
+                        NEXT STEP
+top: 57   bottom: 69
+dot1: 140
+dot2: 197
+dot3: 157
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:33
+countcon:2
+high: 225 low: 90
+        PERIM:108.167
+allcount: 2
+sumper: 225
+countplus: 112
+frame:33
+
+
+                        NEXT STEP
+top: 58   bottom: 69
+dot1: 140
+dot2: 198
+dot3: 158
+dot4: 227
+countcon:1
+high: 232 low: 92
+        PERIM:116.362
+allcount: 1
+sumper: 116
+countplus: 232
+frame:34
+countcon:2
+high: 224 low: 89
+        PERIM:108.167
+allcount: 2
+sumper: 224
+countplus: 112
+frame:34
+
+
+                        NEXT STEP
+top: 58   bottom: 69
+dot1: 139
+dot2: 197
+dot3: 157
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:35
+countcon:2
+high: 225 low: 90
+        PERIM:108.849
+allcount: 2
+sumper: 225
+countplus: 112
+frame:35
+
+
+                        NEXT STEP
+top: 59   bottom: 69
+dot1: 139
+dot2: 198
+dot3: 158
+dot4: 227
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:36
+countcon:2
+high: 226 low: 90
+        PERIM:109.563
+allcount: 2
+sumper: 226
+countplus: 113
+frame:36
+
+
+                        NEXT STEP
+top: 59   bottom: 70
+dot1: 139
+dot2: 198
+dot3: 157
+dot4: 227
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:37
+countcon:2
+high: 225 low: 90
+        PERIM:108.167
+allcount: 2
+sumper: 225
+countplus: 112
+frame:37
+
+
+                        NEXT STEP
+top: 58   bottom: 70
+dot1: 139
+dot2: 197
+dot3: 157
+dot4: 227
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:38
+countcon:2
+high: 225 low: 90
+        PERIM:108.167
+allcount: 2
+sumper: 225
+countplus: 112
+frame:38
+
+
+                        NEXT STEP
+top: 56   bottom: 69
+dot1: 140
+dot2: 196
+dot3: 157
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:39
+countcon:2
+high: 223 low: 89
+        PERIM:106.902
+allcount: 2
+sumper: 223
+countplus: 111
+frame:39
+
+
+                        NEXT STEP
+top: 56   bottom: 70
+dot1: 142
+dot2: 198
+dot3: 156
+dot4: 226
+countcon:1
+high: 234 low: 93
+        PERIM:117.337
+allcount: 1
+sumper: 117
+countplus: 234
+frame:40
+countcon:2
+high: 223 low: 89
+        PERIM:106.32
+allcount: 2
+sumper: 223
+countplus: 111
+frame:40
+
+
+                        NEXT STEP
+top: 54   bottom: 71
+dot1: 145
+dot2: 199
+dot3: 155
+dot4: 226
+countcon:1
+high: 230 low: 92
+        PERIM:115.412
+allcount: 1
+sumper: 115
+countplus: 230
+frame:41
+countcon:2
+high: 218 low: 87
+        PERIM:103.942
+allcount: 2
+sumper: 218
+countplus: 109
+frame:41
+
+
+                        NEXT STEP
+top: 54   bottom: 70
+dot1: 146
+dot2: 200
+dot3: 155
+dot4: 225
+countcon:1
+high: 226 low: 90
+        PERIM:113.596
+allcount: 1
+sumper: 113
+countplus: 226
+frame:42
+countcon:2
+high: 216 low: 86
+        PERIM:103.576
+allcount: 2
+sumper: 216
+countplus: 108
+frame:42
+
+
+                        NEXT STEP
+top: 53   bottom: 69
+dot1: 149
+dot2: 202
+dot3: 156
+dot4: 225
+countcon:1
+high: 222 low: 88
+        PERIM:111.893
+allcount: 1
+sumper: 111
+countplus: 222
+frame:43
+countcon:2
+high: 213 low: 85
+        PERIM:102.956
+allcount: 2
+sumper: 213
+countplus: 106
+frame:43
+
+
+                        NEXT STEP
+top: 52   bottom: 67
+dot1: 151
+dot2: 203
+dot3: 157
+dot4: 224
+countcon:1
+high: 220 low: 88
+        PERIM:110.309
+allcount: 1
+sumper: 110
+countplus: 220
+frame:44
+countcon:2
+high: 212 low: 84
+        PERIM:102.703
+allcount: 2
+sumper: 212
+countplus: 106
+frame:44
+
+
+                        NEXT STEP
+top: 51   bottom: 67
+dot1: 151
+dot2: 202
+dot3: 155
+dot4: 222
+countcon:1
+high: 218 low: 87
+        PERIM:109.563
+allcount: 1
+sumper: 109
+countplus: 218
+frame:45
+countcon:2
+high: 211 low: 84
+        PERIM:102.313
+allcount: 2
+sumper: 211
+countplus: 105
+frame:45
+
+
+                        NEXT STEP
+top: 51   bottom: 66
+dot1: 154
+dot2: 205
+dot3: 157
+dot4: 223
+countcon:1
+high: 214 low: 85
+        PERIM:107.517
+allcount: 1
+sumper: 107
+countplus: 214
+frame:46
+countcon:2
+high: 209 low: 83
+        PERIM:102.176
+allcount: 2
+sumper: 209
+countplus: 104
+frame:46
+
+
+                        NEXT STEP
+top: 51   bottom: 64
+dot1: 155
+dot2: 206
+dot3: 158
+dot4: 222
+countcon:1
+high: 212 low: 84
+        PERIM:106.902
+allcount: 1
+sumper: 106
+countplus: 212
+frame:47
+countcon:2
+high: 208 low: 83
+        PERIM:102.176
+allcount: 2
+sumper: 208
+countplus: 104
+frame:47
+
+
+                        NEXT STEP
+top: 50   bottom: 64
+dot1: 153
+dot2: 203
+dot3: 155
+dot4: 219
+countcon:1
+high: 212 low: 84
+        PERIM:106.902
+allcount: 1
+sumper: 106
+countplus: 212
+frame:48
+countcon:2
+high: 208 low: 83
+        PERIM:102.078
+allcount: 2
+sumper: 208
+countplus: 104
+frame:48
+
+
+                        NEXT STEP
+top: 50   bottom: 64
+dot1: 157
+dot2: 207
+dot3: 158
+dot4: 222
+countcon:1
+high: 210 low: 84
+        PERIM:105.773
+allcount: 1
+sumper: 105
+countplus: 210
+frame:49
+countcon:2
+high: 207 low: 82
+        PERIM:102.02
+allcount: 2
+sumper: 207
+countplus: 103
+frame:49
+
+
+                        NEXT STEP
+top: 51   bottom: 64
+dot1: 153
+dot2: 204
+dot3: 154
+dot4: 218
+countcon:1
+high: 210 low: 84
+        PERIM:105.773
+allcount: 1
+sumper: 105
+countplus: 210
+frame:50
+countcon:2
+high: 207 low: 82
+        PERIM:102.02
+allcount: 2
+sumper: 207
+countplus: 103
+frame:50
+
+
+                        NEXT STEP
+top: 59   bottom: 63
+dot1: 149
+dot2: 208
+dot3: 158
+dot4: 221
+countcon:1
+high: 180 low: 72
+        PERIM:90.3549
+allcount: 1
+sumper: 90
+countplus: 180
+frame:51
+countcon:2
+high: 195 low: 78
+        PERIM:105.262
+allcount: 2
+sumper: 195
+countplus: 97
+frame:51
+
+
+                        NEXT STEP
+top: 65   bottom: 63
+dot1: 148
+dot2: 213
+dot3: 162
+dot4: 225
+countcon:1
+high: 128 low: 51
+        PERIM:64
+allcount: 1
+sumper: 64
+countplus: 128
+frame:52
+countcon:2
+high: 168 low: 67
+        PERIM:104.785
+allcount: 2
+sumper: 168
+countplus: 84
+frame:52
+
+
+                        NEXT STEP
+top: 66   bottom: 63
+dot1: 146
+dot2: 212
+dot3: 161
+dot4: 224
+countcon:1
+high: 68 low: 27
+        PERIM:34.2345
+allcount: 1
+sumper: 34
+countplus: 68
+frame:53
+countcon:2
+high: 138 low: 55
+        PERIM:104.785
+allcount: 2
+sumper: 138
+countplus: 69
+frame:53
+
+
+                        NEXT STEP
+top: 75   bottom: 90
+dot1: 139
+dot2: 214
+dot3: 118
+dot4: 208
+countcon:0
+high: 0 low: 0
+        PERIM:104.346
+allcount: 1
+sumper: 104
+countplus: 0
+frame:54
+
+
+                        NEXT STEP
+top: 75   bottom: 90
+dot1: 108
+dot2: 183
+dot3: 130
+dot4: 220
+countcon:0
+high: 0 low: 0
+        PERIM:104.346
+allcount: 1
+sumper: 104
+countplus: 0
+frame:55
+
+
+                        NEXT STEP
+top: 85   bottom: 90
+dot1: 124
+dot2: 209
+dot3: 147
+dot4: 237
+countcon:0
+high: 0 low: 0
+        PERIM:104.346
+allcount: 1
+sumper: 104
+countplus: 0
+frame:56
+
+
+                        NEXT STEP
+top: 85   bottom: 90
+dot1: 132
+dot2: 217
+dot3: 152
+dot4: 242
+countcon:0
+high: 0 low: 0
+        PERIM:104.346
+allcount: 1
+sumper: 104
+countplus: 0
+frame:57
+
+
+                        NEXT STEP
+top: 85   bottom: 90
+dot1: 143
+dot2: 228
+dot3: 127
+dot4: 217
+countcon:0
+high: 0 low: 0
+        PERIM:83.5224
+allcount: 1
+sumper: 83
+countplus: 0
+frame:58
+countcon:0
+high: 0 low: 0
+        PERIM:104.346
+allcount: 2
+sumper: 187
+countplus: 0
+frame:58
+countcon:0
+high: 0 low: 0
+        PERIM:90.0222
+allcount: 3
+sumper: 277
+countplus: 0
+frame:58
+
+
+                        NEXT STEP
+top: 85   bottom: 90
+dot1: 177
+dot2: 262
+dot3: 122
+dot4: 212
+countcon:0
+high: 0 low: 0
+        PERIM:104.346
+allcount: 1
+sumper: 104
+countplus: 0
+frame:59
+countcon:1
+high: 216 low: 86
+        PERIM:108.167
+allcount: 2
+sumper: 212
+countplus: 216
+frame:59
+PREPYATSTVIE
+
