@@ -184,13 +184,14 @@ newvid:
 						block = 1;
 						if (block == 1) {
 							cvDrawContours(cont, seq0, CV_RGB(255, 0, 0), CV_RGB(0, 0, 250), 1, 2, 8);
+							cvSetImageROI(frame, cvRect(x, y, width, height));
+							cvAddS(cont, cvScalar(250), frame);
+							cvResetImageROI(frame);
 						}
-						cvSetImageROI(frame, cvRect(x, y, width, height));
-						cvAddS(cont, cvScalar(250), frame);
-						cvResetImageROI(frame);
+						
 					}
 				}
-				cvWaitKey(30);
+				cvWaitKey(0);
 				cvShowImage(names[u], frame);
 			}
 		}
@@ -217,6 +218,5 @@ newvid:
 		frameCount++;
 	}
 	cvReleaseCapture(&capture);
-
 	return 0;
 }
